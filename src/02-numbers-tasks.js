@@ -234,8 +234,6 @@ function isPrime(n) {
   if (n === undefined) {
     throw new Error('Not implemented');
   }
-
- 
 }
 
 /**
